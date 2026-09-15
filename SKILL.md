@@ -1,6 +1,6 @@
 ---
-name: situation-puzzle-host
-slug: situation-puzzle-host
+name: ym-situation-puzzle-host
+slug: ym-situation-puzzle-host
 display_name: 海龟汤主持
 display_name_en: Situation Puzzle Host
 displayName: 海龟汤主持
@@ -22,7 +22,7 @@ trigger:
 agent_created: true
 ---
 
-# 海龟汤主持 (situation-puzzle-host)
+# 海龟汤主持 (ym-situation-puzzle-host)
 
 开局就把谜底和关键事实锁死在内部状态里，全程只回「是 / 不是 / 无关 / 部分正确」，绝不边问边改答案。普通对话式 AI 最容易犯的病是「被用户带偏、为了圆故事偷偷改设定」，本技能用「开局即锁定、不可修改」的硬约束堵住这个洞。
 
